@@ -30,6 +30,7 @@
     "commercial_music_category_ids": [],
     "pc_feature_flag": 0,
     "recognize_tasks": [],
+    "capcut_version": "3.9.0.1459",
     "reference_lines_config": {
         "horizontal_lines": [],
         "is_lock": false,

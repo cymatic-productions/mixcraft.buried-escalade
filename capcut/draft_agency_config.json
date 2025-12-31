@@ -4,5 +4,6 @@
     "is_single_agency_mode": false,
     "marterials": null,
     "use_converter": false,
-    "video_resolution": 720
+    "video_resolution": 720,
+    "capcut_version": "3.9.0.1459"
 }
