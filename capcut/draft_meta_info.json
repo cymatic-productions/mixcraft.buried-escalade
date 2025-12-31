@@ -1,1 +1,373 @@
-{"cloud_package_completed_time":"","draft_cloud_capcut_purchase_info":"","draft_cloud_last_action_download":false,"draft_cloud_package_type":"","draft_cloud_purchase_info":"","draft_cloud_template_id":"","draft_cloud_tutorial_info":"","draft_cloud_videocut_purchase_info":"","draft_cover":"draft_cover.jpg","draft_deeplink_url":"","draft_enterprise_info":{"draft_enterprise_extra":"","draft_enterprise_id":"","draft_enterprise_name":"","enterprise_material":[]},"draft_fold_path":"C:/Users/Computer/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/buried-escalade","draft_id":"041CF9BA-B3AF-45a0-ADA6-E0B477F9CDC7","draft_is_ae_produce":false,"draft_is_ai_packaging_used":false,"draft_is_ai_shorts":false,"draft_is_ai_translate":false,"draft_is_article_video_draft":false,"draft_is_from_deeplink":"false","draft_is_invisible":false,"draft_materials":[{"type":0,"value":[{"create_time":1739381763,"duration":10000000,"extra_info":"1.5_20250212_1226_Mountaineer in Snowy Pass_storyboard_01jkxk4vw1e6tsrf68bf0apej8.mp4","file_Path":"C:/Users/Computer/Downloads/1.5_20250212_1226_Mountaineer in Snowy Pass_storyboard_01jkxk4vw1e6tsrf68bf0apej8.mp4","height":480,"id":"d8e08a65-1d3d-427e-906e-b634d0d848ee","import_time":1739381842,"import_time_ms":1739381802588892,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739381758,"duration":10000000,"extra_info":"1.4_20250212_1228_Extreme Mountain Climbing_storyboard_01jkxk8kdnf30a347hsxmz6scs.mp4","file_Path":"C:/Users/Computer/Downloads/1.4_20250212_1228_Extreme Mountain Climbing_storyboard_01jkxk8kdnf30a347hsxmz6scs.mp4","height":480,"id":"d0f78caf-a2c1-40c8-aa70-69dac0fa3f86","import_time":1739381843,"import_time_ms":1739381802591742,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739381754,"duration":10000000,"extra_info":"1.3_20250205_1417_Journey to the Summit_simple_compose_01jkbrqd7hefts47ckzw1zxgp9.mp4","file_Path":"C:/Users/Computer/Downloads/1.3_20250205_1417_Journey to the Summit_simple_compose_01jkbrqd7hefts47ckzw1zxgp9.mp4","height":480,"id":"ef612ece-aa19-41cb-a7ee-3f5c8397f7b9","import_time":1739381844,"import_time_ms":1739381802592580,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739381748,"duration":10000000,"extra_info":"1.2_20250212_1232_Mountain Climbing Adventure_storyboard_01jkxkfbsre75t725xjz3d9yzd.mp4","file_Path":"C:/Users/Computer/Downloads/1.2_20250212_1232_Mountain Climbing Adventure_storyboard_01jkxkfbsre75t725xjz3d9yzd.mp4","height":480,"id":"6f1d9a8f-eb18-4af4-8d4d-b05d74b70589","import_time":1739381845,"import_time_ms":1739381802593290,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739381743,"duration":10000000,"extra_info":"1.1_20250212_1234_Nighttime Explorations_storyboard_01jkxkke76edvskhwthhr2e22w.mp4","file_Path":"C:/Users/Computer/Downloads/1.1_20250212_1234_Nighttime Explorations_storyboard_01jkxkke76edvskhwthhr2e22w.mp4","height":480,"id":"e82d5c43-a25e-42b6-9447-19bebe4e8943","import_time":1739381846,"import_time_ms":1739381802594025,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739381734,"duration":10000000,"extra_info":"1.0_20250205_1446_Starlit Snow Camping_storyboard_01jkbtch6gfptb70xt00qb8k79.mp4","file_Path":"C:/Users/Computer/Downloads/1.0_20250205_1446_Starlit Snow Camping_storyboard_01jkbtch6gfptb70xt00qb8k79.mp4","height":480,"id":"f734d0fc-0b73-4436-bbac-0df072b45756","import_time":1739381855,"import_time_ms":1739381810029721,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1738220049,"duration":102390000,"extra_info":"buried-escalade.mp3","file_Path":"C:/Users/Computer/dev/music/maven.github-repo-downloader-demo/target/mixcraft.buried-escalade/buried-escalade.mp3","height":0,"id":"6bc24d21-ac5d-4c02-bd0f-58dce6901914","import_time":1739381922,"import_time_ms":1739381876397038,"item_source":1,"md5":"","metetype":"music","roughcut_time_range":{"duration":102390000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":0},{"create_time":1739382343,"duration":10000000,"extra_info":"1.6_20250205_1436_Perilous Everest Ascent_simple_compose_01jkbstq29f14bwe4ykw6ebk1e.mp4","file_Path":"C:/Users/Computer/Downloads/1.6_20250205_1436_Perilous Everest Ascent_simple_compose_01jkbstq29f14bwe4ykw6ebk1e.mp4","height":480,"id":"6dcb51e2-0fac-4136-a689-0d074ff5f34a","import_time":1739382605,"import_time_ms":1739382558579119,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739382540,"duration":10000000,"extra_info":"1.7_20250212_1246_Extreme Ice Climbing_storyboard_01jkxma0czf34angwavvwz2p3z.mp4","file_Path":"C:/Users/Computer/Downloads/1.7_20250212_1246_Extreme Ice Climbing_storyboard_01jkxma0czf34angwavvwz2p3z.mp4","height":480,"id":"b59522c5-4fc9-4256-9e9d-c6db30a8ee6d","import_time":1739382611,"import_time_ms":1739382563043434,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739383148,"duration":10000000,"extra_info":"1.8_20250212_1258_Avalanche Incoming Adventure_storyboard_01jkxmzsxne5qrz7tgr04jtqys.mp4","file_Path":"C:/Users/Computer/Downloads/1.8_20250212_1258_Avalanche Incoming Adventure_storyboard_01jkxmzsxne5qrz7tgr04jtqys.mp4","height":480,"id":"b64d523c-2230-409c-ac37-0ee1de5163c7","import_time":1739383208,"import_time_ms":1739383159619088,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739383628,"duration":10000000,"extra_info":"1.9_20250212_1306_Smooth Camera Transition_storyboard_01jkxnes3zetxr4r3rxhq70pmf.mp4","file_Path":"C:/Users/Computer/Downloads/1.9_20250212_1306_Smooth Camera Transition_storyboard_01jkxnes3zetxr4r3rxhq70pmf.mp4","height":480,"id":"ad4d2601-6037-4fb1-841f-8a17f33e3d2c","import_time":1739383748,"import_time_ms":1739383698539864,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739383835,"duration":10000000,"extra_info":"1.91_20250212_1308_Starlit Winter Camping_storyboard_01jkxnhpggfbas1retbfbbmbzn.mp4","file_Path":"C:/Users/Computer/Downloads/1.91_20250212_1308_Starlit Winter Camping_storyboard_01jkxnhpggfbas1retbfbbmbzn.mp4","height":480,"id":"81df4021-abe9-4a8d-9ecf-cdbaaa6afa8d","import_time":1739383895,"import_time_ms":1739383844458459,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":10000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":480},{"create_time":1739138780,"duration":3000000,"extra_info":"black.mp4","file_Path":"C:/Users/Computer/Videos/black.mp4","height":540,"id":"3abd9d98-4ab2-4ee6-be6c-38474700af06","import_time":1739384013,"import_time_ms":1739383961936131,"item_source":1,"md5":"","metetype":"video","roughcut_time_range":{"duration":3000000,"start":0},"sub_time_range":{"duration":-1,"start":-1},"type":0,"width":960}]},{"type":1,"value":[]},{"type":2,"value":[]},{"type":3,"value":[]},{"type":6,"value":[]},{"type":7,"value":[]},{"type":8,"value":[]}],"draft_materials_copied_info":[],"draft_name":"buried-escalade","draft_need_rename_folder":false,"draft_new_version":"","draft_removable_storage_device":"","draft_root_path":"C:/Users/Computer/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft","draft_segment_extra_info":[],"draft_timeline_materials_size_":47522121,"draft_type":"","tm_draft_cloud_completed":"","tm_draft_cloud_modified":0,"tm_draft_cloud_space_id":-1,"tm_draft_create":1739381642360349,"tm_draft_modified":1742568100843480,"tm_draft_removed":0,"tm_duration":102400000}
+{
+    "cloud_package_completed_time": "",
+    "draft_cloud_capcut_purchase_info": "",
+    "draft_cloud_last_action_download": false,
+    "draft_cloud_package_type": "",
+    "draft_cloud_purchase_info": "",
+    "draft_cloud_template_id": "",
+    "draft_cloud_tutorial_info": "",
+    "draft_cloud_videocut_purchase_info": "",
+    "draft_cover": "draft_cover.jpg",
+    "draft_deeplink_url": "",
+    "draft_enterprise_info": {
+        "draft_enterprise_extra": "",
+        "draft_enterprise_id": "",
+        "draft_enterprise_name": "",
+        "enterprise_material": []
+    },
+    "draft_fold_path": "C:/Users/Computer/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/buried-escalade",
+    "draft_id": "041CF9BA-B3AF-45a0-ADA6-E0B477F9CDC7",
+    "draft_is_ae_produce": false,
+    "draft_is_ai_packaging_used": false,
+    "draft_is_ai_shorts": false,
+    "draft_is_ai_translate": false,
+    "draft_is_article_video_draft": false,
+    "draft_is_from_deeplink": "false",
+    "draft_is_invisible": false,
+    "draft_materials": [
+        {
+            "type": 0,
+            "value": [
+                {
+                    "create_time": 1739381763,
+                    "duration": 10000000,
+                    "extra_info": "1.5_20250212_1226_Mountaineer in Snowy Pass_storyboard_01jkxk4vw1e6tsrf68bf0apej8.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.5_20250212_1226_Mountaineer in Snowy Pass_storyboard_01jkxk4vw1e6tsrf68bf0apej8.mp4",
+                    "height": 480,
+                    "id": "d8e08a65-1d3d-427e-906e-b634d0d848ee",
+                    "import_time": 1739381842,
+                    "import_time_ms": 1739381802588892,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739381758,
+                    "duration": 10000000,
+                    "extra_info": "1.4_20250212_1228_Extreme Mountain Climbing_storyboard_01jkxk8kdnf30a347hsxmz6scs.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.4_20250212_1228_Extreme Mountain Climbing_storyboard_01jkxk8kdnf30a347hsxmz6scs.mp4",
+                    "height": 480,
+                    "id": "d0f78caf-a2c1-40c8-aa70-69dac0fa3f86",
+                    "import_time": 1739381843,
+                    "import_time_ms": 1739381802591742,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739381754,
+                    "duration": 10000000,
+                    "extra_info": "1.3_20250205_1417_Journey to the Summit_simple_compose_01jkbrqd7hefts47ckzw1zxgp9.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.3_20250205_1417_Journey to the Summit_simple_compose_01jkbrqd7hefts47ckzw1zxgp9.mp4",
+                    "height": 480,
+                    "id": "ef612ece-aa19-41cb-a7ee-3f5c8397f7b9",
+                    "import_time": 1739381844,
+                    "import_time_ms": 1739381802592580,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739381748,
+                    "duration": 10000000,
+                    "extra_info": "1.2_20250212_1232_Mountain Climbing Adventure_storyboard_01jkxkfbsre75t725xjz3d9yzd.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.2_20250212_1232_Mountain Climbing Adventure_storyboard_01jkxkfbsre75t725xjz3d9yzd.mp4",
+                    "height": 480,
+                    "id": "6f1d9a8f-eb18-4af4-8d4d-b05d74b70589",
+                    "import_time": 1739381845,
+                    "import_time_ms": 1739381802593290,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739381743,
+                    "duration": 10000000,
+                    "extra_info": "1.1_20250212_1234_Nighttime Explorations_storyboard_01jkxkke76edvskhwthhr2e22w.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.1_20250212_1234_Nighttime Explorations_storyboard_01jkxkke76edvskhwthhr2e22w.mp4",
+                    "height": 480,
+                    "id": "e82d5c43-a25e-42b6-9447-19bebe4e8943",
+                    "import_time": 1739381846,
+                    "import_time_ms": 1739381802594025,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739381734,
+                    "duration": 10000000,
+                    "extra_info": "1.0_20250205_1446_Starlit Snow Camping_storyboard_01jkbtch6gfptb70xt00qb8k79.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.0_20250205_1446_Starlit Snow Camping_storyboard_01jkbtch6gfptb70xt00qb8k79.mp4",
+                    "height": 480,
+                    "id": "f734d0fc-0b73-4436-bbac-0df072b45756",
+                    "import_time": 1739381855,
+                    "import_time_ms": 1739381810029721,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1738220049,
+                    "duration": 102390000,
+                    "extra_info": "buried-escalade.mp3",
+                    "file_Path": "C:/Users/Computer/dev/music/maven.github-repo-downloader-demo/target/mixcraft.buried-escalade/buried-escalade.mp3",
+                    "height": 0,
+                    "id": "6bc24d21-ac5d-4c02-bd0f-58dce6901914",
+                    "import_time": 1739381922,
+                    "import_time_ms": 1739381876397038,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "music",
+                    "roughcut_time_range": {
+                        "duration": 102390000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 0
+                },
+                {
+                    "create_time": 1739382343,
+                    "duration": 10000000,
+                    "extra_info": "1.6_20250205_1436_Perilous Everest Ascent_simple_compose_01jkbstq29f14bwe4ykw6ebk1e.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.6_20250205_1436_Perilous Everest Ascent_simple_compose_01jkbstq29f14bwe4ykw6ebk1e.mp4",
+                    "height": 480,
+                    "id": "6dcb51e2-0fac-4136-a689-0d074ff5f34a",
+                    "import_time": 1739382605,
+                    "import_time_ms": 1739382558579119,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739382540,
+                    "duration": 10000000,
+                    "extra_info": "1.7_20250212_1246_Extreme Ice Climbing_storyboard_01jkxma0czf34angwavvwz2p3z.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.7_20250212_1246_Extreme Ice Climbing_storyboard_01jkxma0czf34angwavvwz2p3z.mp4",
+                    "height": 480,
+                    "id": "b59522c5-4fc9-4256-9e9d-c6db30a8ee6d",
+                    "import_time": 1739382611,
+                    "import_time_ms": 1739382563043434,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739383148,
+                    "duration": 10000000,
+                    "extra_info": "1.8_20250212_1258_Avalanche Incoming Adventure_storyboard_01jkxmzsxne5qrz7tgr04jtqys.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.8_20250212_1258_Avalanche Incoming Adventure_storyboard_01jkxmzsxne5qrz7tgr04jtqys.mp4",
+                    "height": 480,
+                    "id": "b64d523c-2230-409c-ac37-0ee1de5163c7",
+                    "import_time": 1739383208,
+                    "import_time_ms": 1739383159619088,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739383628,
+                    "duration": 10000000,
+                    "extra_info": "1.9_20250212_1306_Smooth Camera Transition_storyboard_01jkxnes3zetxr4r3rxhq70pmf.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.9_20250212_1306_Smooth Camera Transition_storyboard_01jkxnes3zetxr4r3rxhq70pmf.mp4",
+                    "height": 480,
+                    "id": "ad4d2601-6037-4fb1-841f-8a17f33e3d2c",
+                    "import_time": 1739383748,
+                    "import_time_ms": 1739383698539864,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739383835,
+                    "duration": 10000000,
+                    "extra_info": "1.91_20250212_1308_Starlit Winter Camping_storyboard_01jkxnhpggfbas1retbfbbmbzn.mp4",
+                    "file_Path": "C:/Users/Computer/Downloads/1.91_20250212_1308_Starlit Winter Camping_storyboard_01jkxnhpggfbas1retbfbbmbzn.mp4",
+                    "height": 480,
+                    "id": "81df4021-abe9-4a8d-9ecf-cdbaaa6afa8d",
+                    "import_time": 1739383895,
+                    "import_time_ms": 1739383844458459,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 10000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 480
+                },
+                {
+                    "create_time": 1739138780,
+                    "duration": 3000000,
+                    "extra_info": "black.mp4",
+                    "file_Path": "C:/Users/Computer/Videos/black.mp4",
+                    "height": 540,
+                    "id": "3abd9d98-4ab2-4ee6-be6c-38474700af06",
+                    "import_time": 1739384013,
+                    "import_time_ms": 1739383961936131,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "video",
+                    "roughcut_time_range": {
+                        "duration": 3000000,
+                        "start": 0
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 960
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "value": []
+        },
+        {
+            "type": 2,
+            "value": []
+        },
+        {
+            "type": 3,
+            "value": []
+        },
+        {
+            "type": 6,
+            "value": []
+        },
+        {
+            "type": 7,
+            "value": []
+        },
+        {
+            "type": 8,
+            "value": []
+        }
+    ],
+    "draft_materials_copied_info": [],
+    "draft_name": "buried-escalade",
+    "draft_need_rename_folder": false,
+    "draft_new_version": "",
+    "draft_removable_storage_device": "",
+    "draft_root_path": "C:/Users/Computer/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+    "draft_segment_extra_info": [],
+    "draft_timeline_materials_size_": 47522121,
+    "draft_type": "",
+    "tm_draft_cloud_completed": "",
+    "tm_draft_cloud_modified": 0,
+    "tm_draft_cloud_space_id": -1,
+    "tm_draft_create": 1739381642360349,
+    "tm_draft_modified": 1742568100843480,
+    "tm_draft_removed": 0,
+    "tm_duration": 102400000
+}
